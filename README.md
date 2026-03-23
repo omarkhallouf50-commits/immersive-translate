@@ -7,5 +7,5 @@
 [**点此安装沉浸式翻译**](https://immersivetranslate.com/docs/installation/) 或 [查看文档](https://immersivetranslate.com/docs/)
 
 以下为视频介绍：
-
+      
 https://github.com/immersive-translate/immersive-translate/assets/62473795/a0e9af51-4a18-45ef-9fc4-0a1509d56ab0
